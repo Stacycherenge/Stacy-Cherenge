@@ -1,8 +1,8 @@
-# Stacy-Cherenge
-**![header](https://capsule-render.vercel.app/api?type=venom&&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Stacy%20Cherenge&&animation=twinkling&&fontColor=d6ace6&fontSize=90)**
+
+**![header](https://capsule-render.vercel.app/api?type=venom&&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=I%am%Stacy%20Cherenge&&animation=twinkling&&fontColor=d6ace6&fontSize=90)**
 <div align="center">
-  <h1>Hi, I'm Stacy Cherenge </h1>
-  <p><strong>Backend Engineer | AI/ML & CyberSecurity Specialization</strong></p>
+ 
+  <p><strong>A Backend Engineer | AI/ML & CyberSecurity Specialization</strong></p>
   
   <p>🛡️ Building secure, scalable backend infrastructures. ⚡ Training and deploying high-throughput AI/ML pipelines.</p>
 
