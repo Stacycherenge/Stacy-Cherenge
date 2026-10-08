@@ -77,7 +77,7 @@
 
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" height="175px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="175px"/>
+  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" height="175px"/>
 </p>
 
 <p align="center">
