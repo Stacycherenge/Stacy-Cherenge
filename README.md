@@ -1,5 +1,5 @@
 # Stacy-Cherenge
-**![header](https://capsule-render.vercel.app/api?type=venom&&color=_custom_gradient&height=300&section=header&text=Stacy%20Cherenge&fontSize=90)**
+**![header](https://capsule-render.vercel.app/api?type=venom&&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Stacy%20Cherenge&fontSize=90)**
 <div align="center">
   <h1>Hi, I'm Stacy Cherenge </h1>
   <p><strong>Backend Engineer | AI/ML & CyberSecurity Specialization</strong></p>
